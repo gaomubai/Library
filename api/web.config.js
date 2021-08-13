@@ -1,9 +1,9 @@
 module.exports = {
     dbConfig: {
         host:'localhost',
-        user:'root',
-        password:'Gary19990618',
-        database:'Simbi',
+        user:'',
+        password:'',
+        database:'',
         connectionLimit : 10,
         multipleStatements : true,
         connectTimeout: 10000
